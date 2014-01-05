@@ -10,6 +10,7 @@
 	box-shadow: 2px -2px 2px 2px rgba(36,32,33,0.50);
 	background-color: rgba(36,32,33,0.50);
 	padding: 1%;
+	margin-bottom: 10px;
 }
 
 body {
@@ -19,12 +20,13 @@ body {
 	  -o-background-size: cover;
   background-size: cover;
 }
-
 .custom-h1 {
 	color: white;
 	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
 	font-weight: 200;
 	font-size: 56px;
+	line-height: 60px;
+
 
 }
 
