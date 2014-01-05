@@ -1,9 +1,0 @@
-<div class="fishbox">
-	<h2>
-Submit Your Pic
-
-		<%= simple_form_for @pic do |f| %>
-
-		<% end%>
-	</h2>
-<div>
